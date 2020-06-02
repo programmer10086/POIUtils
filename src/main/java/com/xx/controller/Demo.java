@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 public class Demo {
 
     public static void main(String[] args) {
-        System.out.println("创建了一个新的分支dev");
+        System.out.println("主分支的内容");
 
     }
 }

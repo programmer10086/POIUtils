@@ -16,8 +16,7 @@ import java.util.stream.Collectors;
 public class Demo {
 
     public static void main(String[] args) {
-        String str = " ";
-        System.out.println(StringUtils.hasText(str));
+        System.out.println("跟新了一个版本1");
 
     }
 }
